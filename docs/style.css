@@ -2,4 +2,48 @@
 
 *{
     font-size: 16px;
+    font-family: 'Poppins', sans-serif;
+    font-weight: 600;
+}
+
+.page {
+    width: 375px;
+    margin: auto;
+    padding: 0 2em;
+    border: 1px solid black;
+    color: white;
+    background-color: hsl(257, 40%, 49%);
+}
+
+header p {
+    font-size: 2rem;
+}
+
+#illustration-image {
+    width: 95%;
+}
+
+.main-content {
+    margin: 4em auto 0 auto;
+    width: 300px;
+}
+
+h1 {
+    font-size: 1.5rem;
+    font-weight: 400;
+}
+
+.main-content p {
+    font-family: 'Open Sans';
+    font-weight: 400;
+}
+
+#btn {
+    margin: 10px 0 100px 40px;
+    width: 230px;
+    height: 45px;
+    border-radius: 23px;
+    color:hsl(257, 40%, 49%);
+    border: 1px solid hsl(257, 40%, 49%);
+    font-weight: 400;
 }
